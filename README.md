@@ -3,4 +3,12 @@ This codes satisfies your curiosity of wondering how audio files look like and h
 The code manipulates the data of the files to convert one format to another. 
 The results give some interesting results.
 
+
+A wav file with multiple channels converted to rgb:
 ![Wav file to rgbimage](/Image/output/RGB/OneWav.png)
+
+Gray:
+![Wav file to Gray](/Image/output/Gray/OneWav.png)
+
+
+What appears chaotic has a lot of order just from a different perspective.
