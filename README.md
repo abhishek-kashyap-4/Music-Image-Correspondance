@@ -5,10 +5,10 @@ The results give some interesting results.
 
 
 A wav file with multiple channels converted to rgb:
-![Wav file to rgbimage](/Image/output/RGB/OneWav.png)
+![Wav file to rgbimage](/Image/output/RGB/OneWav.png=250x250)
 
 Gray:
-![Wav file to Gray](/Image/output/Gray/OneWav.png)
+![Wav file to Gray](/Image/output/Gray/OneWav.png=250x250)
 
 
 What appears chaotic has a lot of order just from a different perspective.
